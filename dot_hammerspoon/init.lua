@@ -19,7 +19,6 @@ hs.window.filter.ignoreAlways['Firefox Developer EditionCP RDD Process'] = true
 hs.window.filter.ignoreAlways['Firefox Developer EditionCP Privileged Content'] = true
 hs.window.filter.ignoreAlways['Firefox Developer EditionCP Socket Process'] = true
 hs.window.filter.ignoreAlways['Slack Helper (Renderer)'] = true
-hs.window.filter.ignoreAlways['TweetDeck Networking'] = true
 
 -- ================================== Setup Menu ==================================
 
