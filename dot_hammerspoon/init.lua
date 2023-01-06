@@ -23,7 +23,7 @@ hs.window.filter.ignoreAlways['Slack Helper (Renderer)'] = true
 -- ================================== Setup Menu ==================================
 
 menubar = hs.menubar.new()
-menubar:setIcon(hs.image.imageFromName("NSHandCursor"))
+menubar:setIcon(hs.image.imageFromName("NSTouchBarIconViewTemplate"))
 
 if menubar then
     local menuItems = {}
